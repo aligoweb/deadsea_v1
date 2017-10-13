@@ -131,6 +131,7 @@ div.required .control-label:before {
 /* search */
 #search {
 	margin-bottom: 10px;
+    padding-top:19px;
 }
 #search .input-lg {
 	height: 40px;
@@ -146,6 +147,7 @@ div.required .control-label:before {
 /* cart */
 #cart {
 	margin-bottom: 10px;
+    padding-top: 19px;
 }
 #cart > .btn {
 	font-size: 12px;
